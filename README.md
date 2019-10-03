@@ -1,2 +1,2 @@
 # Simple-Cuda-Colab-Demo
-Practice CUDA without any specialized hardware using Google Cola.
+Practice CUDA without any specialized hardware using Google Colab.
